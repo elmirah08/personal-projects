@@ -1,0 +1,3 @@
+[submodule "food-recipes"]
+	path = food-recipes
+	url = git@github.com:elmirah08/food-recipes.git
